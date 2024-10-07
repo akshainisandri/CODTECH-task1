@@ -62,3 +62,5 @@ It computes the GPA according to the average.
 
 ### Output:
 The final result includes a summary displaying the average, letter grade, and GPA.
+![Screenshot 2024-10-07 182710](https://github.com/user-attachments/assets/24744c8a-74c6-4350-a5e5-73c254ca25eb)
+
