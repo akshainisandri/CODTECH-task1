@@ -8,9 +8,6 @@
 
 **Duration:** October 5th to November 5th,2024
 
-**Mentor:** mohan
-
-
 ## Project Overview: Student Grade Tracker
 
 ### Objective:
